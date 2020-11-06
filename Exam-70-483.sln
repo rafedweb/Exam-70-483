@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel.For-1.3", "Chapter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagingParallelFor-1.4", "Chapter-1\ManagingParallelFor-1.4\ManagingParallelFor-1.4.csproj", "{2EF06440-8169-4F75-85CC-0E1557DBB14E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel.LINQ-1.5", "Chapter-1\Parallel.LINQ-1.5\Parallel.LINQ-1.5.csproj", "{AD2FF38D-0FB3-435A-8578-83A0F1B94F5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{2EF06440-8169-4F75-85CC-0E1557DBB14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EF06440-8169-4F75-85CC-0E1557DBB14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EF06440-8169-4F75-85CC-0E1557DBB14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2FF38D-0FB3-435A-8578-83A0F1B94F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2FF38D-0FB3-435A-8578-83A0F1B94F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2FF38D-0FB3-435A-8578-83A0F1B94F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2FF38D-0FB3-435A-8578-83A0F1B94F5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{97E551D0-E2AE-4389-8ECE-C426DD9A121E} = {3B70EB39-AE1F-4C58-9861-72A73843D3B1}
 		{05E93995-1FDA-4403-86C6-4DCAE30DD27A} = {3B70EB39-AE1F-4C58-9861-72A73843D3B1}
 		{2EF06440-8169-4F75-85CC-0E1557DBB14E} = {3B70EB39-AE1F-4C58-9861-72A73843D3B1}
+		{AD2FF38D-0FB3-435A-8578-83A0F1B94F5A} = {3B70EB39-AE1F-4C58-9861-72A73843D3B1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F6395387-E6F7-4DE3-8089-5C1DA8CE820A}
